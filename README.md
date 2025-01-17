@@ -9,7 +9,7 @@ Articles included:
 
 
 * The most Flexible AWS Savings Plan
-*AWS Graviton Processors: The Future of Cloud Computing
+* AWS Graviton Processors: The Future of Cloud Computing
 * AWS AppRunner: The Smart Way to Deploy Containers on The Cloud
 * Monitor and Control Amazon Cloud Costs with Terraform
 * DNS stand-alone subdomain on AWS Route53 with Terraform
